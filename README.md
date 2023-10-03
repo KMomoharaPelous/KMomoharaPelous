@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Github Stats
+<span>Github Stats</span>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KMomoharaPelous&theme=dark)](https://git.io/streak-stats)
 
-Holopin Badges
+<span>Holopin Badges</span>
 [![An image of @kmomoharapelous's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kmomoharapelous)](https://holopin.io/@kmomoharapelous)
 <!--
 **KMomoharaPelous/KMomoharaPelous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

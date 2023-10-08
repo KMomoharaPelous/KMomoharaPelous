@@ -1,12 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm actively working to update this readme file. Don't mind the empty feeling.
 
-Github Stats
+## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KMomoharaPelous&theme=dark)](https://git.io/streak-stats)
 
-Holopin Badges
+## Holopin Badges
 
 [![An image of @kmomoharapelous's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kmomoharapelous)](https://holopin.io/@kmomoharapelous)
 <!--

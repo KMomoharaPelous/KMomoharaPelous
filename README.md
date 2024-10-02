@@ -9,6 +9,10 @@ I'm actively working to update this readme file. Don't mind the empty feeling.
 ## Holopin Badges
 
 [![An image of @kmomoharapelous's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kmomoharapelous)](https://holopin.io/@kmomoharapelous)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@HapaBAKAGaming/30-nites-of-code)  
+  ![@HapaBAKAGaming #30NitesOfCode](https://www.codedex.io/api/petStatus?user=HapaBAKAGaming)
 <!--
 **KMomoharaPelous/KMomoharaPelous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

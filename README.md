@@ -2,6 +2,8 @@
 
 I'm actively working to update this readme file. Don't mind the empty feeling.
 
+*Kichelle Momohara-Pelous* is a student full-stack web developer attending Arizona State University. Currently living on the island of Kaua'i, Hawai'i.
+
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KMomoharaPelous&theme=dark)](https://git.io/streak-stats)

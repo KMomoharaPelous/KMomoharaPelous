@@ -10,7 +10,7 @@ I'm actively working to update this readme file. Don't mind the empty feeling.
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KMomoharaPelous&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KMomoharaPelous&theme=dark)](https://git.io/streak-stats)
 
 ## Holopin Badges
 

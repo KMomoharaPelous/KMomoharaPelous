@@ -12,6 +12,9 @@ I'm actively working to update this readme file. Don't mind the empty feeling.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KmomoharaPelous)](https://git.io/streak-stats)
 
+#GitHub Foundations Certified
+[![GitHub Foundations Certified Badge](https://www.credly.com/earner/earned/badge/e68931cb-4b6e-4443-9d6c-c66d0e3a582d)]
+
 ## Holopin Badges
 
 [![An image of @kmomoharapelous's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kmomoharapelous)](https://holopin.io/@kmomoharapelous)

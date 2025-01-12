@@ -10,7 +10,7 @@ I'm actively working to update this readme file. Don't mind the empty feeling.
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KmomoharaPelous)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KMomoharaPelous)](https://git.io/streak-stats)
 
 ## Daily.dev Dev Card
 <a href="https://app.daily.dev/kmomolous"><img src="https://api.daily.dev/devcards/v2/6eLjBwgJ4zztPOGiwcfU1.png?r=pxz&type=default" width="356" alt="Kichelle Momohara-Pelous's Dev Card"/></a>

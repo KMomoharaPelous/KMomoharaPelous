@@ -9,7 +9,7 @@ I'm actively working to update this readme file. Don't mind the empty feeling.
 - I'm looking to collaborate on projects that aim to make technology easier to use for everyone!
 
 ## Github Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KMomoharaPelous" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readmestreakstats-9d8290fc9843.herokuapp.com?user=KMomoharaPelous)](https://git.io/streak-stats)
 
 ## Daily.dev Dev Card
 <a href="https://app.daily.dev/kmomolous"><img src="https://api.daily.dev/devcards/v2/6eLjBwgJ4zztPOGiwcfU1.png?r=pxz&type=default" width="356" alt="Kichelle Momohara-Pelous's Dev Card"/></a>
